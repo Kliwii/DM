@@ -1,0 +1,16 @@
+@import "bootstrap/bootstrap.css";
+@import "layout.css";
+@import "main.css";
+@import "footer.css";
+@import "header.css";
+@import "mobilenavigation.css";
+@import "projecthover.css";
+
+@import "aktuelles.css";
+@import "impressum.css";
+@import "kontakt.css";
+@import "newsdetail.css";
+@import "projektdetail.css";
+@import "projekte.css";
+@import "projekte-einreichen.css";
+@import "studiengaenge.css";
